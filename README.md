@@ -43,7 +43,7 @@ Lineare Regression        |  Polynomiale Regression
 
 Zeitreihenanalyse mit Tagesvorhersage         |  Zeitreihenanalyse mit Monatsvorhersage
 :-------------------------:|:-------------------------:
-![Lineare Regression](img/zeitreihe-day.png)  |  ![Polynomiale Regression](img/zeitreihe-month.png)
+![Lineare Regression](zeitreihe-day.png)  |  ![Polynomiale Regression](zeitreihe-month.png)
 
 ## Vergleich verschiedener Ansätze
 
