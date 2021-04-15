@@ -39,7 +39,7 @@ Da es bei einem Aktienkurs ebenfalls um Zeitreihendaten handelt, erschien uns di
 
 Lineare Regression        |  Polynomiale Regression
 :-------------------------:|:-------------------------:
-![Lineare Regression](img/linear.png)  |  ![Polynomiale Regression](img/poly.png)
+![Lineare Regression](linear.png)  |  ![Polynomiale Regression](poly.png)
 
 Zeitreihenanalyse mit Tagesvorhersage         |  Zeitreihenanalyse mit Monatsvorhersage
 :-------------------------:|:-------------------------:
