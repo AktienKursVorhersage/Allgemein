@@ -25,9 +25,9 @@ Da es bei einem Aktienkurs ebenfalls um Zeitreihendaten handelt, erschien uns di
 
 # Gliederung
 
-1. Regression  
-    1.1 Lineare Regression  
-    1.2 Polynomiale Regression  
+1. [Regression](https://github.com/AktienKursVorhersage/Regressionsanalyse)  
+    1.1 [Lineare Regression](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/main/Lineare%20Regressionsanalyse.ipynb)  
+    1.2 [Polynomiale Regression](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/main/Polynomial%20Regression.ipynb)  
 2. Zeitreihenanalyse  
     2.1 Tagesabhängig  
     2.2 Monatsabhängig  
