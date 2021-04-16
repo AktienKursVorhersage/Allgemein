@@ -29,7 +29,7 @@ Da es bei einem Aktienkurs ebenfalls um Zeitreihendaten handelt, erschien uns di
     1.1 [Lineare Regression](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/main/Lineare%20Regressionsanalyse.ipynb)  
     1.2 [Polynomiale Regression](https://github.com/AktienKursVorhersage/Regressionsanalyse/blob/main/Polynomial%20Regression.ipynb)  
 2. [Zeitreihenanalyse](https://github.com/AktienKursVorhersage/Zeitreihenanalyse)  
-    2.1 [Tagesabhängig und Monatsabhängig](https://github.com/AktienKursVorhersage/Zeitreihenanalyse)  
+    2.1 [Tagesabhängig und Monatsabhängig](https://github.com/AktienKursVorhersage/Zeitreihenanalyse/blob/main/Time%20Series.ipynb)  
 3. Zusammenfassung
 
 # Zusammenfassung
