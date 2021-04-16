@@ -19,7 +19,7 @@ Bei der Umsetzung haben wir uns für zwei Varianten der Regressionsanalyse entsc
 - Lineare Regression
 - Polynomiale Regression
 
-Da es bei einem Aktienkurs ebenfalls um Zeitreihendaten handelt, erschien uns die Zeitreihenanalyse als zusätzliche passende Methode. Bei der Umsetzung der Zeitreiehenanalyse fand die Analyse in zwei verschiedenen Vorhersageintervallen statt:
+Da es sich bei einem Aktienkurs ebenfalls um Zeitreihendaten handelt, erschien uns die Zeitreihenanalyse als zusätzliche passende Methode, um eine zeitabhängige Vorhersage zu treffen. Bei der Umsetzung der Zeitreiehenanalyse fand die Analyse in zwei verschiedenen Vorhersageintervallen statt:
 - tagesabhägig
 - monatsabhängig
 
